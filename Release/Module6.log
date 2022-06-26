@@ -1,0 +1,8 @@
+﻿  source.cpp
+C:\Users\ltoth\source\repos\Module6\source.cpp(150,6): warning C4101: 'quantity': unreferenced local variable
+  Generating code
+  2 of 203 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Module6.vcxproj -> C:\Users\ltoth\source\repos\Module6\Release\Module6.exe
